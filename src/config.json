@@ -1,0 +1,9 @@
+{
+	"cron_pattern" : "0 */5 * * * *",
+	"searchToken" : "age",
+	"plugin_module" : "./plugin/agefinderplugin.js",
+	"API_KEY" : "Your twitter API Key",
+	"API_SECRET" : "Your Twitter API SECRET",
+	"access_token" : "Your own account access_token for this API",
+	"secret" : "Your own account access token secret for this API"
+}

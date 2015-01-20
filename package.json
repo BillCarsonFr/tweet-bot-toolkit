@@ -1,0 +1,16 @@
+{
+  "name": "age-bot",
+  "version": "0.0.1",
+  "description": "a twitter bot to get the age of celebrities",
+  "author": "ValR bill.carson@valrsoft.com",
+  "dependencies": {
+    "request": "^2.34.0",
+    "moment": "^2.6.0",
+    "oauth": "^0.9.11",
+    "cron": "^1.0.4"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-compress": "^0.8.0"
+  }
+}
